@@ -1,0 +1,146 @@
+[
+  {
+    "word": "お父さん",
+    "hiragana": "おとうさん",
+    "romaji": "otousan",
+    "english": "dad, father"
+  },
+  {
+    "word": "お母さん",
+    "hiragana": "おかあさん",
+    "romaji": "okaasan",
+    "english": "mom, mother"
+  },
+  {
+    "word": "お兄さん",
+    "hiragana": "おにいさん",
+    "romaji": "oniisan",
+    "english": "older brother, young man"
+  },
+  {
+    "word": "お姉さん",
+    "hiragana": "おねえさん",
+    "romaji": "oneesan",
+    "english": "older sister, young woman"
+  },
+  {
+    "word": "お爺さん",
+    "hiragana": "おじいさん",
+    "romaji": "ojiisan",
+    "english": "old man, grandfather"
+  },
+  {
+    "word": "お婆さん",
+    "hiragana": "おばあさん",
+    "romaji": "obaasan",
+    "english": "old woman, grandmother"
+  },
+  {
+    "word": "お菓子",
+    "hiragana": "おかし",
+    "romaji": "okashi",
+    "english": "sweets, confection"
+  },
+  {
+    "word": "お金",
+    "hiragana": "おかね",
+    "romaji": "okane",
+    "english": "money"
+  },
+  {
+    "word": "お手洗い",
+    "hiragana": "おてあらい",
+    "romaji": "otearai",
+    "english": "restroom, toilet, bathroom"
+  },
+  {
+    "word": "お巡りさん",
+    "hiragana": "おまわりさん",
+    "romaji": "omawarisan",
+    "english": "policeman"
+  },
+  {
+    "word": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "english": "tea"
+  },
+  {
+    "word": "お腹",
+    "hiragana": "おなか",
+    "romaji": "onaka",
+    "english": "stomach"
+  },
+  {
+    "word": "お弁当",
+    "hiragana": "おべんとう",
+    "romaji": "obentou",
+    "english": "Japanese box lunch, bento"
+  },
+  {
+    "word": "鞄",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "english": "bag"
+  },
+  {
+    "word": "ご飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "english": "meal, food, rice"
+  },
+  {
+    "word": "飴",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "english": "candy"
+  },
+  {
+    "word": "意味",
+    "hiragana": "いみ",
+    "romaji": "imi",
+    "english": "meaning, significance"
+  },
+  {
+    "word": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "english": "chair"
+  },
+  {
+    "word": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "english": "doctor"
+  },
+  {
+    "word": "一昨日",
+    "hiragana": "おととい",
+    "romaji": "ototoi",
+    "english": "day before yesterday"
+  },
+  {
+    "word": "一昨年",
+    "hiragana": "おととし",
+    "romaji": "ototoshi",
+    "english": "year before last"
+  },
+  {
+    "word": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "english": "drink, beverage"
+  },
+  {
+    "word": "左",
+    "hiragana": "ひだり",
+    "romaji": "hidari",
+    "english": "left, left hand side"
+  },
+  {
+    "word": "右",
+    "hiragana": "みぎ",
+    "romaji": "migi",
+    "english": "right, right hand side"
+  }
+]
